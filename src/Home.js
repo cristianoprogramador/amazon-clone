@@ -21,13 +21,13 @@ function Home() {
                 </div>
 
                 <div className='home__row'>
-                <Product id="5611321" title="Notebook Mais incrivel e rapido do faroeste que esse brasil já viu" price={1239.0} rating={5} image={produto3}  />
-                <Product id="5611321" title="A melhor Televisão de 42Pol que você já viu, com cores ultra lindas e imagem cristalina" price={652.0} rating={4} image={produto4}  />
-                <Product id="5611321" title="O fogão que faz a comida agradável para você e sua familia" price={239.0} rating={2} image={produto5}  />
+                <Product id="564321" title="Notebook Mais incrivel e rapido do faroeste que esse brasil já viu" price={1239.0} rating={5} image={produto3}  />
+                <Product id="5611121" title="A melhor Televisão de 42Pol que você já viu, com cores ultra lindas e imagem cristalina" price={652.0} rating={4} image={produto4}  />
+                <Product id="54521" title="O fogão que faz a comida agradável para você e sua familia" price={239.0} rating={2} image={produto5}  />
                 </div>
 
                 <div className='home__row'>
-                <Product id="5611321" title="O violão que foi tocado pelo Paul e pelo John Lennon na sua turne em Sertãozinho" price={999.9} rating={5} image={produto6}  />
+                <Product id="5625481" title="O violão que foi tocado pelo Paul e pelo John Lennon na sua turne em Sertãozinho" price={999.9} rating={5} image={produto6}  />
                 </div>
             </div>
         </div>
