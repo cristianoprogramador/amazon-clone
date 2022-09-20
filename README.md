@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Amazon Clone With ReactJs!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Simple project to clone the appearance of the amazon website, the sales and purchase system will still be implemented.
 
-## Available Scripts
+## <a href="https://amazon-clone-7mvejatmn-cristianoprogramador.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
-In the project directory, you can run:
+### :space_invader: Tech Stack
 
-### `npm start`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+  </ul>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784219-cab3eb2f-bc21-4c09-ab9e-dd7272605ca5.png" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/instagram.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
+<br>
 
-### `npm test`
+<hr />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
+<a href="https://amazon-clone-7mvejatmn-cristianoprogramador.vercel.app"><img  src='https://user-images.githubusercontent.com/102186472/191351843-f5a37283-1800-4d0f-a0cb-517b3f9f7ba1.png' alt='image'/></a>
+</div>
 
-### `npm run build`
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### -- Install my-project with "NPM I INSTALL"--
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://github.com/cristianoprogramador/amazon-clone/blob/main/package.json" target="_blank">🔶 Other Dependency Info</a>
 
-### `npm run eject`
+<!-- Run Locally -->
+### :running: Run Locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  git clone https://github.com/cristianoprogramador/amazon-clone.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  npm install
+  or
+  yarn install
+```
+Start the server
 
-## Learn More
+```bash
+  npm run dev
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :handshake: Contact
 
-### Code Splitting
+https://cristianosilvadev.com/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+<br />
 
-### Making a Progressive Web App
+<a href="https://amazon-clone-7mvejatmn-cristianoprogramador.vercel.app" target="_blank">!![image](https://user-images.githubusercontent.com/102186472/191353023-5066924b-7506-416b-9f69-2c17f8f9cfbb.png)</a>
+<div align="center">Don't forget to leave a star ⭐️</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
